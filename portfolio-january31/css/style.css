@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'poppins';
-    src: url('/assets/Poppins-Regular.ttf');
+    src: url('../assets/Poppins-Regular.ttf');
 }
 
 body {
